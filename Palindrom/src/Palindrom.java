@@ -15,6 +15,7 @@ class DLLNode<E> {
 		return "<-" + element.toString() + "->";
 	}
 }
+//promena dodadeno komentar za ikt lab
 
 class DLL<E> {
 	private DLLNode<E> first, last;
