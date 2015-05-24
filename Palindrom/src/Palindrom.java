@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//promena
 class DLLNode<E> {
 	protected E element;
 	protected DLLNode<E> pred, succ;
